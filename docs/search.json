@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "python.html",
+    "href": "python.html",
+    "title": "Python",
+    "section": "",
+    "text": "You can use tabsets to present content that will vary in interest depending on the audience. For example, here we provide some example code in a variety of languages:\n\nRPython\n\n\nfizz_buzz &lt;- function(fbnums = 1:50) {\n  output &lt;- dplyr::case_when(\n    fbnums %% 15 == 0 ~ \"FizzBuzz\",\n    fbnums %% 3 == 0 ~ \"Fizz\",\n    fbnums %% 5 == 0 ~ \"Buzz\",\n    TRUE ~ as.character(fbnums)\n  )\n  print(output)\n}\n\n\ndef fizz_buzz(num):\n  if num % 15 == 0:\n    print(\"FizzBuzz\")\n  elif num % 5 == 0:\n    print(\"Buzz\")\n  elif num % 3 == 0:\n    print(\"Fizz\")\n  else:\n    print(num)"
+  },
+  {
+    "objectID": "python.html#tabsets",
+    "href": "python.html#tabsets",
+    "title": "Python",
+    "section": "",
+    "text": "You can use tabsets to present content that will vary in interest depending on the audience. For example, here we provide some example code in a variety of languages:\n\nRPython\n\n\nfizz_buzz &lt;- function(fbnums = 1:50) {\n  output &lt;- dplyr::case_when(\n    fbnums %% 15 == 0 ~ \"FizzBuzz\",\n    fbnums %% 3 == 0 ~ \"Fizz\",\n    fbnums %% 5 == 0 ~ \"Buzz\",\n    TRUE ~ as.character(fbnums)\n  )\n  print(output)\n}\n\n\ndef fizz_buzz(num):\n  if num % 15 == 0:\n    print(\"FizzBuzz\")\n  elif num % 5 == 0:\n    print(\"Buzz\")\n  elif num % 3 == 0:\n    print(\"Fizz\")\n  else:\n    print(num)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My Site",
+    "section": "",
+    "text": "This is a Quarto website.\nI just want to check how I can update the changes. another change\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]
