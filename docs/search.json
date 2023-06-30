@@ -16,15 +16,15 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "My Site",
+    "title": "Project K2",
     "section": "",
-    "text": "This is a Quarto website.\nI just want to check how I can update the changes. another change\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Project K2 assembles a collection of materials about Data Science and Machine Learning. It serves as a record of my learning progress."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
+    "objectID": "index.html#why-k2",
+    "href": "index.html#why-k2",
+    "title": "Project K2",
+    "section": "Why K2?",
+    "text": "Why K2?\nK2, known in China as Qogir (乔戈里峰), is the Earth’s second-highest mountain after Mount Everest. While most people know the name of the world’s tallest mountain, few have any idea which mountain ranks second. The champion we cheer, the runner up we scarcely hear. Although the summit of Everest is at a higher altitude, K2 is a more difficult and dangerous climb.\nI choose to name this project “K2” to symbolize the challenges ahead in my journey to becoming a data scientist. I am well aware will be a long and arduous road.\nHowever, with steady effort, focus and preseverance, I will climb this mountain - one foundational concept at a time, one line of code after another. The journey begins here, with the first step already taken. Along the way, I will push myself, learn from setbacks, and rely on the support of fellow climbers.\nMy quest has begun. Onward I march, eyes fixed on the summit that awaits."
   }
 ]
